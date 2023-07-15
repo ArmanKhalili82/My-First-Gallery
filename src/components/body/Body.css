@@ -1,0 +1,9 @@
+.disc {
+    columns: 2;
+}
+
+@media screen and (max-width: 500px) {
+    .disc {
+        columns: 1;
+    }
+}
